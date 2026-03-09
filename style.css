@@ -1,10 +1,10 @@
 h1{
 font-size:8rem;
-color:black;
+
 }
 .hero{
 height:400px;
-background:url("https://images.unsplash.com/photo-1492684223066-81342ee5ff30") center/cover;
+background:url("https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-cool-music-festival-carnival-character-silhouette-background-design-backgroundcolorfullivelycharacter-carnivalholiday-backgroundmusic-image_70553.jpg") center/cover;
 display:flex;
 justify-content:center;
 align-items:center;
